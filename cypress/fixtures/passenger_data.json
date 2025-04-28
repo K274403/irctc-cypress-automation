@@ -5,7 +5,7 @@
   "SOURCE_STATION": "LKO",
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "BE",
-  "TATKAL": False,
+  "TATKAL": false,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "8874699918@ptyes",
   "PASSENGER_DETAILS": [
